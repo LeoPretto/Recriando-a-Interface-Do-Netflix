@@ -66,7 +66,7 @@ header nav a:hover{
 .filme-principal .titulo{
     margin-top: 15%;
     font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
 .botao{
@@ -93,7 +93,6 @@ header nav a:hover{
 
 .container {
     margin-left: 20px;
-    margin-right: 20px;
 }
 
 .filme-principal .container{
@@ -104,4 +103,9 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+    cursor: pointer;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
